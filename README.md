@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/insanebwoi">Insane-boy</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/insanebwoi/insane-bot-v1.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/insanebwoi/insane-bot-v1) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -48,13 +48,13 @@ $ node insane.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="https://github.com/insanebwoi/insane-bot-v1">
     
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/insanebwoi/followers">
+<img src="https://img.shields.io/github/repo-size/insanebwoi/insane-bot-v1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/insanebwoi/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/insanebwoi?color=blue&style=flat-square"></a>
 <a href="https://github.com/insanebwoi/Julie-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
 <a href="https://github.com/insanebwoi/Julie-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
 <a href="https://github.com/insanebwoi/Julie-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
@@ -81,7 +81,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Farhan-Dqz](https://i.imgur.com/BiLC1Ik.jpeg?size=100)](https://github.com/insanebwoi) | [![TOXIC-DEVIL](https://i.imgur.com/B5KVzI6.jpeg?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://avatars.githubusercontent.com/u/83164448?v=4)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[Insane-bwoi](https://github.com/insanebwoi) | [WHITE-DEVIL](https://github.com/terror-boy) | [Farhan-dqz](https://github.com/farhan-dqz) | [afnanplk](https://github.com/afnanplk) 
+[Insane-bwoi](https://github.com/insanebwoi) | [KARTHIK TERROR BOY](https://github.com/terror-boy) | [Farhan-dqz](https://github.com/farhan-dqz) | [afnanplk](https://github.com/afnanplk) 
 Re-modifier, Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Forked from Julie mwol | Bug Fixes, Modules 
   </div>
     
