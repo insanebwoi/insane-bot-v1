@@ -8,7 +8,7 @@
     "success_url": "https://github.com/insanebwoi/Insane-bot",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "JULIE_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
