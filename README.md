@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/insanebwoi">Insane-boy</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/insanebwoi/Insane-bot) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/insanebwoi/insane-bot-v1.git) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -30,8 +30,8 @@ Project created by <a href="https://github.com/insanebwoi">Insane-boy</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/insanebwoi/Insane-bot
-$ cd Insane-bot
+$ git clone https://github.com/insanebwoi/insane-bot-v1.git
+$ cd Insane-bot-v1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node insane.js
@@ -39,8 +39,8 @@ $ node insane.js
       
 ```js
 SETUP
-$ git clone https://github.com/insanebwoi/Insane-bot
-$ cd Insane-bot
+$ git clone https://github.com/insanebwoi/insane-bot-v1.git
+$ cd Insane-bot-v1
 $ npm i
 $ node insane.js
 ```
