@@ -1,9 +1,9 @@
 {
     "name": "Julie-Mwol",
-    "description"Insane bot is the Modified Version of Julie mwol, Made By @insanebwoi with Baileys.",
+    "description:"Insane bot is the Modified Version of Julie mwol, Made By @insanebwoi with Baileys.",
     "logo": "https://i.imgur.com/BiLC1Ik.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/insanebwoi/insane-bot-v1",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
