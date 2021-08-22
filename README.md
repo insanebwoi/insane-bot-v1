@@ -81,7 +81,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Farhan-Dqz](https://i.imgur.com/BiLC1Ik.jpeg?size=100)](https://github.com/insanebwoi) | [![TOXIC-DEVIL](https://i.imgur.com/B5KVzI6.jpeg?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://avatars.githubusercontent.com/u/83164448?v=4)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[Insane-bwoi](https://github.com/insanebwoi) | [WHITE-DEVIL](https://github.com/TOXIC-DEVIL) | [Farhan-dqz](https://github.com/farhan-dqz) | [afnanplk](https://github.com/afnanplk) 
+[Insane-bwoi](https://github.com/insanebwoi) | [WHITE-DEVIL](https://github.com/terror-boy) | [Farhan-dqz](https://github.com/farhan-dqz) | [afnanplk](https://github.com/afnanplk) 
 Re-modifier, Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Forked from Julie mwol | Bug Fixes, Modules 
   </div>
     
