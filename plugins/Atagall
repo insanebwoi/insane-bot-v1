@@ -9,7 +9,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../config');
 
 const Language = require('../language');
-const Lang = Language.getString('tagall');
+const Lang = Language.getString('hidetag');
 const SLang = Language.getString('scrapers');
 
 async function checkImAdmin(message, user = message.client.user.jid) {
@@ -20,7 +20,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
 
-Asena.addCommand({pattern: 'tagall ?(.*)', fromMe: true, dontAddCommandList: true, desc: Lang.TAGALL_DESC>
+Asena.addCommand({pattern: 'hidetag ?(.*)', fromMe: true, dontAddCommandList: true, desc: Lang.TAGALL_DESC>
 
     if (!message.reply_message) {
         if (match[1] !== '') {
