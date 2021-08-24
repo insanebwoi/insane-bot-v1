@@ -79,7 +79,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![Farhan-Dqz](https://i.imgur.com/BiLC1Ik.jpeg?size=150)](https://github.com/insanebwoi) | [![TOXIC-DEVIL](https://i.imgur.com/B5KVzI6.jpeg?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://avatars.githubusercontent.com/u/83164448?v=4)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![Farhan-Dqz](https://1.bp.blogspot.com/-YGiqPqkPOMM/YOQ3GhgHeyI/AAAAAAAAAeA/9mgG1wEjpSIpUtJDz6Qj4AIAA2bQurx9QCPcBGAYYCw/s1000/WhatsApp%2BImage%2B2021-07-06%2Bat%2B4.23.34%2BPM.jpeg?size=100)](https://github.com/insanebwoi) 
+  [![insanebwoi](https://i.imgur.com/BiLC1Ik.jpeg?size=150)](https://github.com/insanebwoi) | [![terror-boy](https://i.imgur.com/B5KVzI6.jpeg?size=100)](https://github.com/TOXIC-DEVIL) |  [![Farhan-dqz](https://avatars.githubusercontent.com/u/83164448?v=4)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![Devil-Tigers](https://1.bp.blogspot.com/-YGiqPqkPOMM/YOQ3GhgHeyI/AAAAAAAAAeA/9mgG1wEjpSIpUtJDz6Qj4AIAA2bQurx9QCPcBGAYYCw/s1000/WhatsApp%2BImage%2B2021-07-06%2Bat%2B4.23.34%2BPM.jpeg?size=100)](https://github.com/insanebwoi) 
 ------|------|------|------|------
 [Insane-bwoi](https://github.com/insanebwoi) | [KARTHIK TERROR BOY](https://github.com/terror-boy) | [Farhan-dqz](https://github.com/farhan-dqz) | [afnanplk](https://github.com/afnanplk) | [The devil tigers](https://github.com/Devil-Tigers)
 Re-modifier, Base, Bug Fixes, Modules| Re-Developer, BugFix, Commits |  Bug fix, Forked from Julie mwol | Bug Fixes, Modules | Special thanks|
