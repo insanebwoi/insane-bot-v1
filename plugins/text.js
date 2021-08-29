@@ -47,7 +47,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/sandsummerbeach?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -57,7 +57,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cloudsky?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -67,7 +67,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/3dluxury?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -77,7 +77,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/summerysandwriting?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -87,7 +87,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/metaldarkgold?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -97,7 +97,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/neongalaxy?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -107,7 +107,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/minion3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -117,7 +117,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/holographic3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -127,7 +127,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/metalpurpledual?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -137,7 +137,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/deluxesilver?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -147,7 +147,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/glossycarbon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -157,7 +157,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/fabric?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -167,7 +167,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/newyear3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -177,7 +177,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/neontext?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -187,7 +187,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/helloweenfire?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -197,7 +197,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/xmas3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -207,7 +207,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/jokerlogo?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -217,7 +217,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/wicker?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -227,7 +227,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/skeleton?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -237,7 +237,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -247,7 +247,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purplefoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -257,7 +257,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -267,7 +267,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -277,7 +277,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cyanfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -287,7 +287,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluefoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -297,7 +297,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -307,7 +307,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/steel?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -317,7 +317,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/ultragloss?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -327,7 +327,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/denim?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -337,7 +337,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/decorategreen?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -347,7 +347,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/decoratepurple?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -357,7 +357,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/peridotstone?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -367,7 +367,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/rock?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -377,7 +377,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/lava?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -387,7 +387,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/yellowglass?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -397,7 +397,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/strawberry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -407,7 +407,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/hororrblood?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -417,7 +417,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/horrorgift?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -427,7 +427,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluegem?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -437,7 +437,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bagel?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -447,7 +447,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/captainamerica?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -457,7 +457,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/chocolatecake?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -467,7 +467,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/koifish?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -477,7 +477,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/rainbowequalizer?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -487,7 +487,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/honey?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -497,7 +497,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkcandy?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -507,7 +507,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluemetal?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
    
@@ -517,7 +517,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/fruitjuice?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -527,7 +527,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/carbon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -537,7 +537,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/erodedmetal?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -547,7 +547,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bronzeglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -557,7 +557,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -567,7 +567,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/silverglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -577,7 +577,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -587,7 +587,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -597,7 +597,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/blueglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -607,7 +607,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purpleglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -618,7 +618,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/yellowjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -628,7 +628,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/silverjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -638,7 +638,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -648,7 +648,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purplejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -658,7 +658,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/orangejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -668,7 +668,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -678,7 +678,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cyanjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -688,7 +688,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -698,7 +698,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/biscuit?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -708,7 +708,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldsparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -718,7 +718,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinksparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -728,7 +728,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluesparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -738,7 +738,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greensparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -748,7 +748,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redsparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -758,7 +758,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/gradientavatar?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -768,7 +768,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lol?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -778,7 +778,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lolcover2?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -788,7 +788,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/stars?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -798,7 +798,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/fur?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -808,7 +808,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/gerbang?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -818,7 +818,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lolpentakill?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -828,7 +828,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/aov?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -838,7 +838,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/dota2avatar?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -848,7 +848,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/retro?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -858,7 +858,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/poly?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -868,7 +868,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/colorful?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -878,7 +878,7 @@ Asena.addCommand({pattern: 'sandsum ?(.*)', fromMe: true, dontAddCommandList: tr
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/1917?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -896,7 +896,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/sandsummerbeach?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -906,7 +906,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cloudsky?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -916,7 +916,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/3dluxury?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -926,7 +926,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/summerysandwriting?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -936,7 +936,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/metaldarkgold?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -946,7 +946,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/neongalaxy?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -956,7 +956,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/minion3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -966,7 +966,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/holographic3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -976,7 +976,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/metalpurpledual?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -986,7 +986,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/deluxesilver?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -996,7 +996,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/glossycarbon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1006,7 +1006,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/fabric?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1016,7 +1016,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/newyear3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1026,7 +1026,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/neontext?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1036,7 +1036,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/helloweenfire?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1046,7 +1046,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/xmas3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1056,7 +1056,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/jokerlogo?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1066,7 +1066,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/wicker?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1076,7 +1076,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/skeleton?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1086,7 +1086,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1096,7 +1096,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purplefoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1106,7 +1106,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1116,7 +1116,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1126,7 +1126,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cyanfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1136,7 +1136,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluefoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1146,7 +1146,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1156,7 +1156,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/steel?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1166,7 +1166,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/ultragloss?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1176,7 +1176,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/denim?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1186,7 +1186,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/decorategreen?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1196,7 +1196,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/decoratepurple?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1206,7 +1206,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/peridotstone?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1216,7 +1216,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/rock?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1226,7 +1226,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/lava?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1236,7 +1236,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/yellowglass?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1246,7 +1246,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/strawberry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1256,7 +1256,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/hororrblood?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1266,7 +1266,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/horrorgift?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1276,7 +1276,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluegem?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1286,7 +1286,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bagel?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1296,7 +1296,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/captainamerica?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1306,7 +1306,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/chocolatecake?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1316,7 +1316,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/koifish?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1326,7 +1326,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/rainbowequalizer?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1336,7 +1336,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/honey?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1346,7 +1346,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkcandy?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1356,7 +1356,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluemetal?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
    
@@ -1366,7 +1366,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/fruitjuice?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1376,7 +1376,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/carbon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1386,7 +1386,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/erodedmetal?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1396,7 +1396,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bronzeglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1406,7 +1406,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1416,7 +1416,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/silverglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1426,7 +1426,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1436,7 +1436,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1446,7 +1446,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/blueglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1456,7 +1456,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purpleglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1467,7 +1467,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/yellowjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1477,7 +1477,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/silverjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1487,7 +1487,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1497,7 +1497,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purplejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1507,7 +1507,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/orangejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1517,7 +1517,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1527,7 +1527,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cyanjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1537,7 +1537,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1547,7 +1547,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/biscuit?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1557,7 +1557,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldsparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1567,7 +1567,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinksparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1577,7 +1577,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluesparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1587,7 +1587,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greensparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1597,7 +1597,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redsparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1607,7 +1607,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/gradientavatar?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1617,7 +1617,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lol?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1627,7 +1627,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lolcover2?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1637,7 +1637,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/stars?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1647,7 +1647,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/fur?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1657,7 +1657,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/gerbang?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1667,7 +1667,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lolpentakill?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1677,7 +1677,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/aov?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1687,7 +1687,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/dota2avatar?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1697,7 +1697,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/retro?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1707,7 +1707,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/poly?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1717,7 +1717,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/colorful?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1727,7 +1727,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/1917?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -1739,7 +1739,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/sandsummerbeach?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1749,7 +1749,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cloudsky?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1759,7 +1759,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/3dluxury?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1769,7 +1769,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/summerysandwriting?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1779,7 +1779,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/metaldarkgold?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1789,7 +1789,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/neongalaxy?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1799,7 +1799,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/minion3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1809,7 +1809,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/holographic3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1819,7 +1819,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/metalpurpledual?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1829,7 +1829,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/deluxesilver?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1839,7 +1839,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/glossycarbon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1849,7 +1849,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/fabric?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1859,7 +1859,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/newyear3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1869,7 +1869,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/neontext?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1879,7 +1879,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/helloweenfire?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1889,7 +1889,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/xmas3d?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1899,7 +1899,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/jokerlogo?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1909,7 +1909,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/wicker?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1919,7 +1919,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/skeleton?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1929,7 +1929,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1939,7 +1939,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purplefoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1949,7 +1949,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1959,7 +1959,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1969,7 +1969,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cyanfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1979,7 +1979,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluefoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1989,7 +1989,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldfoilballon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -1999,7 +1999,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/steel?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2009,7 +2009,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/ultragloss?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2019,7 +2019,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/denim?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2029,7 +2029,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/decorategreen?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2039,7 +2039,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/decoratepurple?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2049,7 +2049,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/peridotstone?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2059,7 +2059,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/rock?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2069,7 +2069,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/lava?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2079,7 +2079,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/yellowglass?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2089,7 +2089,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/strawberry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2099,7 +2099,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/hororrblood?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2109,7 +2109,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/horrorgift?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2119,7 +2119,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluegem?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2129,7 +2129,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bagel?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2139,7 +2139,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/captainamerica?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2149,7 +2149,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/chocolatecake?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2159,7 +2159,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/koifish?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2169,7 +2169,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/rainbowequalizer?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2179,7 +2179,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/honey?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2189,7 +2189,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkcandy?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2199,7 +2199,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluemetal?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
    
@@ -2209,7 +2209,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/fruitjuice?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2219,7 +2219,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/carbon?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2229,7 +2229,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/erodedmetal?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2239,7 +2239,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bronzeglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2249,7 +2249,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2259,7 +2259,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/silverglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2269,7 +2269,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2279,7 +2279,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinkglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2289,7 +2289,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/blueglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2299,7 +2299,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purpleglitter?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2310,7 +2310,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/yellowjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2320,7 +2320,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/silverjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2330,7 +2330,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2340,7 +2340,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/purplejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2350,7 +2350,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/orangejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2360,7 +2360,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greenjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2370,7 +2370,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/cyanjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2380,7 +2380,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluejewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2390,7 +2390,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/biscuit?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2400,7 +2400,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/goldsparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2410,7 +2410,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/pinksparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2420,7 +2420,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/bluesparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2430,7 +2430,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/greensparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2440,7 +2440,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/redsparklingjewelry?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2450,7 +2450,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/gradientavatar?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2460,7 +2460,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lol?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2470,7 +2470,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lolcover2?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2480,7 +2480,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/stars?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2490,7 +2490,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/fur?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2500,7 +2500,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/gerbang?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2510,7 +2510,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/lolpentakill?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2520,7 +2520,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/aov?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2530,7 +2530,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/photooxy/dota2avatar?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*'})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2540,7 +2540,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/retro?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2550,7 +2550,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/poly?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
@@ -2560,7 +2560,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://xteam.xyz/videomaker/colorful?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.video, {mimetype: Mimetype.mp4, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
     
@@ -2570,7 +2570,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.xteam.xyz/textpro/1917?text=${match[1]}&APIKEY=${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*})
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: "*looĸ тнιѕ, ι мade ιт ғor yoυ 😘*"})
 
     }));
 
