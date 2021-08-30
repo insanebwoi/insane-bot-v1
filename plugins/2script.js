@@ -45,7 +45,7 @@ if (Config.WORKTYPE == 'private') {
 
 else if (Config.WORKTYPE == 'public') {
 
-     Asena.addCommand({pattern: 'sewmaker', fromMe: true, desc: Lang.NNVL}, (async (message, match) => {
+     Asena.addCommand({pattern: 'sewmaker', fromMe: true, desc: NNVL}, (async (message, match) => {
       await message.sendMessage('👑 **˩σɢσ мακɛя** 👑\n  \n*𝚄𝚜𝚎 𝚝𝚑𝚎 𝚏𝚘𝚕𝚕𝚘𝚠𝚒𝚗𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚝𝚘 𝚐𝚎𝚝 𝚝𝚑𝚎 𝚆𝚘𝚛𝚍 𝙿𝚒𝚌𝚝𝚞𝚛𝚎 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛 𝚖𝚎𝚗𝚞*\n\n\n\n💠 .logo1\n\n💠 .logo2\n\n💠 .logo3\n\n💠 .logo4\n\n💠 .logo5\n\n💠 .logo6\n\n💠 .logo7\n\n💠 .logo8\n\n\n\n\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n... *𝚁𝙴 𝙼𝙾𝙳𝙴𝙳 𝙱𝚈 𝙸𝙽𝚂𝙰𝙽𝙴-𝙱𝙾𝚈*n*𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 :𝙵𝙰𝚁𝙷𝙰𝙽 𝚂𝙸𝚁* ...\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n')
    }));
    
@@ -69,7 +69,7 @@ else if (Config.WORKTYPE == 'public') {
       await message.sendMessage('```👑*˩σɢσ мακɛя*👑```\n*𝙻𝙾𝙶𝙾 𝙼𝙰𝙺𝙸𝙽𝙶 𝚃𝙾𝙾𝙻 𝙷𝙴𝙻𝙿 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙻𝙾𝙶𝙾*\n\n❄️Usage: *.sandsum*\n✨Desc: it makes metal sandsum logo\n💍 Example : *.sandsum Ravindu*\n\n❄️Usage: *.1917*\n✨Desc: it makes metal 1917 logo\n💍 Example : *.1917 Ravindu*\n\n❄️Usage: *.vlogo*\n✨Desc: it makes metal vlogo logo\n💍 Example : *.vlogo Ravindu*\n\n❄️Usage: *.plogo*\n✨Desc: it makes metal plogo logo\n💍 Example : *.plogo Ravindu*\n\n❄️Usage: *.colorlogo*\n✨Desc: it makes metal colorlogo logo\n💍 Example : *.colorlogo Ravindu*\n\n\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n... *𝚁𝙴 𝙼𝙾𝙳𝙴𝙳 𝙱𝚈 𝙸𝙽𝚂𝙰𝙽𝙴-𝙱𝙾𝚈*n*𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 :𝙵𝙰𝚁𝙷𝙰𝙽 𝚂𝙸𝚁* ...\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n')
    }));
    
-   Asena.addCommand({pattern: 'sewmaker', fromMe: false, desc: Lang.NNVL}, (async (message, match) => {
+   Asena.addCommand({pattern: 'sewmaker', fromMe: false, desc: NNVL}, (async (message, match) => {
       await message.sendMessage('👑 **˩σɢσ мακɛя** 👑\n  \n*𝚄𝚜𝚎 𝚝𝚑𝚎 𝚏𝚘𝚕𝚕𝚘𝚠𝚒𝚗𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚝𝚘 𝚐𝚎𝚝 𝚝𝚑𝚎 𝚆𝚘𝚛𝚍 𝙿𝚒𝚌𝚝𝚞𝚛𝚎 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛 𝚖𝚎𝚗𝚞*\n\n\n\n💠 .logo1\n\n💠 .logo2\n\n💠 .logo3\n\n💠 .logo4\n\n💠 .logo5\n\n💠 .logo6\n\n💠 .logo7\n\n💠 .logo8\n\n\n\n\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n... *𝚁𝙴 𝙼𝙾𝙳𝙴𝙳 𝙱𝚈 𝙸𝙽𝚂𝙰𝙽𝙴-𝙱𝙾𝚈*n*𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 :𝙵𝙰𝚁𝙷𝙰𝙽 𝚂𝙸𝚁* ...\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n')
    }));
    
