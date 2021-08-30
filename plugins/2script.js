@@ -17,7 +17,7 @@ const NNVL = "logo to image all manu.. *𝚄𝚜𝚎 𝚝𝚑𝚎 𝚏𝚘𝚕�
 
 if (Config.WORKTYPE == 'private') {
      
-        Asena.addCommand({pattern: 'logomaker', fromMe: true, desc: Lang.NNVL}, (async (message, match) => {
+        Asena.addCommand({pattern: 'logomaker', fromMe: true, desc: NNVL}, (async (message, match) => {
       await message.sendMessage('👑 **˩σɢσ мακɛя** 👑\n  \n*𝚄𝚜𝚎 𝚝𝚑𝚎 𝚏𝚘𝚕𝚕𝚘𝚠𝚒𝚗𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚝𝚘 𝚐𝚎𝚝 𝚝𝚑𝚎 𝚆𝚘𝚛𝚍 𝙿𝚒𝚌𝚝𝚞𝚛𝚎 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛 𝚖𝚎𝚗𝚞*\n\n\n\n💠 .logo1\n\n💠 .logo2\n\n💠 .logo3\n\n💠 .logo4\n\n💠 .logo5\n\n💠 .logo6\n\n💠 .logo7\n\n💠 .logo8\n\n\n\n\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n... *𝚁𝙴 𝙼𝙾𝙳𝙴𝙳 𝙱𝚈 𝙸𝙽𝚂𝙰𝙽𝙴-𝙱𝙾𝚈*n*𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 :𝙵𝙰𝚁𝙷𝙰𝙽 𝚂𝙸𝚁* ...\n· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·\n')
    }));
    
