@@ -10,7 +10,7 @@ const Config = require('../config');
 
 const UNQ = "wrong command dont type words after command"
 
-const DDO = "```Virus By Shadow...```"
+const DDO = "```This camand make a group crash ⚠️ It will couse damage to your whatsapp test your own risk ☠️...```"
 
 const ONO = "```Bug Virus By Spark Shadow```"
 
