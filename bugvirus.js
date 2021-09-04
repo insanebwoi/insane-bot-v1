@@ -6,9 +6,9 @@ const Config = require('../config');
 
 const UNQ = "wrong command dont type words after command"
 
-const DDO = "```Virus By Shadow...```"
+const DDO = "This camand will make your group crash ⚠️IT MAY COUSE DAMAGE TO YOUR WHATSAPP, PLEASE DO YOUR OWN RISK ☠️..."
 
-const ONO = "```Bug Virus By Spark Shadow```"
+const ONO = "Bug Virus By Spark Shadow"
 
 const Language = require('../language');
 
